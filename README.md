@@ -1,7 +1,7 @@
 # Checkpoint 1
 
-### GitHub URL: 
+### GitHub URL: https://github.com/Rupakkundu99/Genathonfinal
 
-### Team Name: 
+### Team Name: CodeCrafters
 
-### PPT Link:
+### PPT Link:https://www.canva.com/design/DAGTh1bOAMs/BWczkO92rOCAOjQ6XfG4eg/edit
